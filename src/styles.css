@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif;
   font-family: "fantasy", Verdana, sans-serif;
-  background-image: url("src/nevado.jpg");
+  background-image: scr("src/nevado.jpg");
   background-repeat: no-repeat;
   background-size: 1400px 700px;
 }
